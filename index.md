@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-  "no need for this css link as i used the css here"<link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css" />
   <meta charset="UTF-8">
   <meta name="description" content="A simple 10 min website made by yehia">
   <meta name="keywords" content="HTML, CSS simple website">
@@ -67,7 +67,7 @@ footer {
     <p>This is my website</p>
   <footer>
   <h>made with love by Yehia!<br>
-  <a href="/warning.html">The code of this site!</a></p>
+  <a href="/warning.md">The code of this site!</a></p>
 
 </footer>
   </body>
